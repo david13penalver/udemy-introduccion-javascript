@@ -1,0 +1,1 @@
+These are my notes on the course of Udemy 'Aprende como iniciarte en la Programación utilizando JavaScript como Lenguaje de Programación' by Grover Vásquez. This course is 3h long.
